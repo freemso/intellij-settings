@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4703600e-d54c-40e0-8e4f-0f2679a54113" name="AWS" url="http://ec2-54-184-126-254.us-west-2.compute.amazonaws.com">
+        <fileTransfer host="ec2-54-184-126-254.us-west-2.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/Downloads/aws.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

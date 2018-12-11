@@ -1,0 +1,14 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/10.0.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/9.11.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/9.10.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/9.8.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/9.4.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
